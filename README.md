@@ -1,1 +1,1 @@
-# Eccmmerce-with-JSX
+# Ecommerce-with-JSX
