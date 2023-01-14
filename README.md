@@ -10,4 +10,4 @@ Desktop view:
 
 Mobile View:
 
-![](/src/assets/react-jsx.png)
+![](/src/assets/react-mobile.png)
